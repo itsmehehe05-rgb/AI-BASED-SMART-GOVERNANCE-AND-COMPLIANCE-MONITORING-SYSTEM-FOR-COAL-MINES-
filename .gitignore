@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Cache and temporary files
+pip-cache/
+temp/
+
+# Generated outputs
+outputs/
+
+# Model artifacts
+models/
+*.joblib
+*.pkl
+*.pickle
+*.npy
+*.index
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
